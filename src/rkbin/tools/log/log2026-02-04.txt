@@ -1,0 +1,116 @@
+15:55:50 	Upgrade Tool v1.54
+
+15:55:50 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+15:55:50 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+15:56:10 	Upgrade Tool v1.54
+
+15:56:10 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+15:56:10 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+15:57:19 	Upgrade Tool v1.54
+
+15:57:19 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+15:57:19 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+16:43:50 	Error:RKU_Write failed, err=-1
+16:43:50 	Error: RKU_ResetDevice failed, err=-3
+16:52:45 	Upgrade Tool v1.54
+
+16:52:45 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+16:52:45 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+16:53:03 	Upgrade Tool v1.54
+
+16:53:03 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+16:53:03 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+16:53:36 	Upgrade Tool v1.54
+
+16:53:36 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+16:53:36 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+16:58:24 	Upgrade Tool v1.54
+
+16:58:24 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+16:58:24 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+16:58:27 	Upgrade Tool v1.54
+
+16:58:27 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+16:58:27 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+16:58:30 	Upgrade Tool v1.54
+
+16:58:30 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+16:58:30 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+16:58:37 	Upgrade Tool v1.54
+
+16:58:37 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+16:58:37 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+16:59:03 	Upgrade Tool v1.54
+
+16:59:03 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+16:59:03 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+18:55:13 	Upgrade Tool v1.54
+
+18:55:13 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+18:55:13 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+18:55:24 	Upgrade Tool v1.54
+
+18:55:24 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+18:55:24 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+18:55:31 	Upgrade Tool v1.54
+
+18:55:31 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+18:55:31 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+18:55:37 	Upgrade Tool v1.54
+
+18:55:37 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+18:55:37 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+18:55:38 	Upgrade Tool v1.54
+
+18:55:38 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+18:55:38 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:01:55 	Upgrade Tool v1.54
+
+19:01:55 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:01:55 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:01:57 	Upgrade Tool v1.54
+
+19:01:57 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:01:57 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:04:24 	Upgrade Tool v1.54
+
+19:04:24 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:04:24 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:09:02 	Upgrade Tool v1.54
+
+19:09:02 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:09:02 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:09:51 	Upgrade Tool v1.54
+
+19:09:51 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:09:51 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:10:07 	Upgrade Tool v1.54
+
+19:10:07 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:10:07 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:10:16 	Upgrade Tool v1.54
+
+19:10:16 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:10:16 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:10:45 	Upgrade Tool v1.54
+
+19:10:45 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:10:45 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:10:46 	Upgrade Tool v1.54
+
+19:10:46 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:10:46 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:10:48 	Upgrade Tool v1.54
+
+19:10:48 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:10:48 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:19:02 	Upgrade Tool v1.54
+
+19:19:02 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:19:02 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:19:35 	Upgrade Tool v1.54
+
+19:19:35 	Current process in /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools
+19:19:35 	Using /home/robin/Storage/Rk3566_taishanpi/src/rkbin/tools/config.ini
+19:19:35 	Error:RKU_Write failed,err=-1
+19:19:35 	Error: RKU_WriteLBA failed, err=-3
