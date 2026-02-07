@@ -4,7 +4,7 @@
 [![OS](https://img.shields.io/badge/OS-Debian%2012%20Bookworm-orange.svg)](https://www.debian.org)
 [![Hardware](https://img.shields.io/badge/Hardware-RK3566-red.svg)](https://www.rock-chips.com/)
 
-这是一个专门为 **RK3566 泰山派 (TaiShan Pi)** 打造的自动化构建系统。它能够生成一个纯净、高性能、且完美适配硬件的 **Debian 12 (Bookworm)** 操作系统，采用最新的 **主线 Linux 内核 (Mainline Kernel)**。
+这是一个专门为 **RK3566 泰山派 (TaiShan Pi)** 打造的自动化构建系统。它能够生成一个纯净、高性能、且完美适配硬件的 **Debian 12 (Bookworm)** 操作系统，采用最新的 **主线 Linux 内核 (Mainline Kernel)**以及**最新的主线u-boot**。
 
 ---
 
@@ -27,12 +27,27 @@
 
 ## 🛠️ 构建指南
 
-项目提供了全自动化的构建脚本，建议在 Ubuntu 22.04+ 环境下操作。
+### 1. 克隆代码与初始化子模块
+由于本项目引用了主线内核与 U-Boot 源码作为子模块，克隆后需要执行初始化：
+```bash
+# 克隆仓库
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
 
-### 1. 准备环境
+# 初始化并更新子模块 (Linux & U-Boot)
+git submodule update --init --recursive
+```
+
+### 2. 准备环境 (Ubuntu/Debian)
+安装构建所需的依赖包：
 ```bash
 sudo apt update
-sudo apt install debootstrap qemu-user-static git-email parted
+sudo apt install -y \
+    build-essential gcc-aarch64-linux-gnu \
+    bc bison flex libssl-dev device-tree-compiler \
+    debootstrap qemu-user-static \
+    gdisk e2fsprogs uuid-runtime \
+    git-email parted
 ```
 
 ### 2. 构建 RootFS
